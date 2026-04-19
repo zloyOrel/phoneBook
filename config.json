@@ -1,0 +1,15 @@
+{
+  "host": "localhost",
+  "port": 5432,
+  "user": "phonebook",
+  "password": "phonebook",
+  "dbname": "phonebook",
+  "listen": ":8080",
+  "copyright": "© 2026",
+  "site_title": "Телефонный справочник",
+  "header_lines": [
+    "Your main office",
+    "Почта: email@com",
+    "Phone"
+  ]
+}

@@ -1,0 +1,2 @@
+
+htpasswd -bnBC 10 "" DumaChao121293! | tr -d ':\n'
