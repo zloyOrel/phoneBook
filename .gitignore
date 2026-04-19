@@ -1,0 +1,25 @@
+# Binary
+phonebook
+*.exe
+
+# Environment and secrets
+.env
+.env.local
+config.local.json
+
+# SQL
+*.sql
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+tmp/
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
