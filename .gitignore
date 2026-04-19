@@ -8,7 +8,7 @@ phonebook
 config.local.json
 
 # SQL
-*.sql
+#*.sql
 
 # Logs
 *.log
